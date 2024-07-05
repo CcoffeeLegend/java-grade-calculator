@@ -7,11 +7,16 @@ Category averages are calculated considering maximum points for homework (800), 
 
 Weightings:
 
-Category	  UG	 G	 DL
-Homework	  20%	15%	5%
-Quizzes	    20%	5%	5%
-Midterm	    30%	35%	40%
-Final Exam	30%	45%	50%
+Category: UG, G, DL
+
+Homework: 20%,	15%,	5%
+
+Quizzes: 20%,	5%,	5%
+
+Midterm: 30%,	35%,	40%
+
+Final Exam:	30%,	45%,	50%
+
 
 Example:
 If the input is:
