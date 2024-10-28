@@ -28,3 +28,4 @@ Quizzes: 100.0%
 Midterm: 66.7%
 Final Exam: 50.0%
 G average: 65.8%
+Grade: D
